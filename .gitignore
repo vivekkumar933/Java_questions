@@ -1,0 +1,14 @@
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# Build folders (optional)
+bin/
+out/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
