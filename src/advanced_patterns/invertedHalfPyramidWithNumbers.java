@@ -1,3 +1,16 @@
+/*
+12345678910
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+ */
+
 package advanced_patterns;
 
 public class invertedHalfPyramidWithNumbers{
@@ -13,6 +26,6 @@ public class invertedHalfPyramidWithNumbers{
     
 
     public static void main (String args[]){
-        invertedHalfPyramid(5);
+        invertedHalfPyramid(10);
     }
 }
