@@ -1,3 +1,13 @@
+/*
+**********
+*        *
+*        *
+*        *
+*        *
+*        *
+********** 
+*/
+
 package advanced_patterns;
 
 public class HollowRectangle {
@@ -19,6 +29,6 @@ public class HollowRectangle {
     }
 
     public static void main(String[] args) {
-        Hollow_rectangle(4,5);
+        Hollow_rectangle(7,10);
     }
 }
